@@ -375,7 +375,7 @@ def tile(i: int, label: str, value: str, caption: str, t: float) -> Card:
     # link affordance: arrow in the corner
     c.add(f'<path d="M256 26 L270 26 L270 40 M270 26 L254 42" fill="none" stroke="{C["accent"]}" '
           f'stroke-width="2" stroke-linecap="round" stroke-linejoin="round"{anim(t + 0.3)}/>')
-    c.sweep(0.5, 120, 291, 3.5, C["accent"], t + 0.25)
+    c.sweep(22, 113, 48, 3, C["accent"], t + 0.25, rx=1.5)
     return c
 
 
