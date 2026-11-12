@@ -1,13 +1,9 @@
 {
  "login": "ankitks1209",
  "name": "Ankit Singh",
- "to": "2026-11-11",
- "total": 93,
+ "to": "2026-11-12",
+ "total": 98,
  "days": [
-  {
-   "date": "2025-11-12",
-   "count": 0
-  },
   {
    "date": "2025-11-13",
    "count": 0
@@ -1462,7 +1458,11 @@
   },
   {
    "date": "2026-11-11",
-   "count": 2
+   "count": 3
+  },
+  {
+   "date": "2026-11-12",
+   "count": 4
   }
  ],
  "pinned": [
@@ -1475,17 +1475,17 @@
  ],
  "repos": [
   {
-   "name": "bolparchi-ai",
-   "description": "olo. Dekho. Confirm karo. A voice-assisted prototype that turns a Hinglish visit update into a reviewed service record. Prototype with fictional data \u2014 not a production service.",
-   "url": "https://github.com/ankitks1209/bolparchi-ai",
+   "name": "GoalGuard-ai",
+   "description": "GoalGuard checks purchase proposals against an owner-confirmed financial plan, protecting bills, a cash buffer and a savings contribution. Approved purchases can continue through PayPal sandbox checkout with exact-cart consent and an audit trail.",
+   "url": "https://github.com/ankitks1209/GoalGuard-ai",
    "stars": 0,
    "forks": 0,
    "language": "Python"
   },
   {
-   "name": "GoalGuard-ai",
-   "description": "GoalGuard checks purchase proposals against an owner-confirmed financial plan, protecting bills, a cash buffer and a savings contribution. Approved purchases can continue through PayPal sandbox checkout with exact-cart consent and an audit trail.",
-   "url": "https://github.com/ankitks1209/GoalGuard-ai",
+   "name": "bolparchi-ai",
+   "description": "Bolo. Dekho. Confirm karo. A voice-assisted prototype that turns a Hinglish visit update into a reviewed service record. Prototype with fictional data \u2014 not a production service.",
+   "url": "https://github.com/ankitks1209/bolparchi-ai",
    "stars": 0,
    "forks": 0,
    "language": "Python"
