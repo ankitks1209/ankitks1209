@@ -8,7 +8,7 @@
   <a href="https://github.com/ankitks1209?tab=repositories&language=python"><img src="cards/tile-3.svg" width="32.5%" alt="Languages: 4 Python, HTML, TypeScript"></a>
 </p>
 <p align="center">
-  <img src="cards/activity.svg" width="100%" alt="Contributions per month: 98 in the last 12 months. Current streak 3 days, 29 active days, busiest day 13.">
+  <img src="cards/activity.svg" width="100%" alt="Contributions per month: 98 in the last 12 months. Current streak 0 days, 29 active days, busiest day 13.">
 </p>
 <p align="center">
   <a href="https://github.com/ankitks1209/Content-Chat-Bot"><img src="cards/repo-content-chat-bot.svg" width="100%" alt="Content-Chat-Bot"></a>
