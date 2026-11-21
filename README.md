@@ -3,12 +3,12 @@
   <img src="cards/hero.svg" width="100%" alt="Ankit Singh: I build AI tools for chat, money and network security.">
 </p>
 <p align="center">
-  <a href="https://github.com/ankitks1209?tab=repositories"><img src="cards/tile-1.svg" width="32.5%" alt="Projects: 8 public repositories"></a>
-  <a href="https://github.com/ankitks1209"><img src="cards/tile-2.svg" width="32.5%" alt="Contributions: 98 in the last year"></a>
-  <a href="https://github.com/ankitks1209?tab=repositories&language=python"><img src="cards/tile-3.svg" width="32.5%" alt="Languages: 4 Python, HTML, TypeScript"></a>
+  <a href="https://github.com/ankitks1209?tab=repositories"><img src="cards/tile-1.svg" width="32.5%" alt="Projects: 7 public repositories"></a>
+  <a href="https://github.com/ankitks1209"><img src="cards/tile-2.svg" width="32.5%" alt="Contributions: 105 in the last year"></a>
+  <a href="https://github.com/ankitks1209?tab=repositories&language=python"><img src="cards/tile-3.svg" width="32.5%" alt="Languages: 4 Python, JavaScript, TypeScript"></a>
 </p>
 <p align="center">
-  <img src="cards/activity.svg" width="100%" alt="Contributions per month: 98 in the last 12 months. Current streak 0 days, 29 active days, busiest day 13.">
+  <img src="cards/activity.svg" width="100%" alt="Contributions per month: 105 in the last 12 months. Current streak 2 days, 31 active days, busiest day 13.">
 </p>
 <p align="center">
   <a href="https://github.com/ankitks1209/Content-Chat-Bot"><img src="cards/repo-content-chat-bot.svg" width="100%" alt="Content-Chat-Bot"></a>
@@ -23,5 +23,5 @@
   <a href="https://github.com/ankitks1209/ai-revenue-recovery"><img src="cards/repo-ai-revenue-recovery.svg" width="100%" alt="ai-revenue-recovery"></a>
 </p>
 <p align="center">
-  <img src="cards/graph.svg" width="100%" alt="Contribution graph: 98 contributions in the last year">
+  <img src="cards/graph.svg" width="100%" alt="Contribution graph: 105 contributions in the last year">
 </p>
