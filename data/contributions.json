@@ -1,13 +1,9 @@
 {
  "login": "ankitks1209",
  "name": "Ankit Singh",
- "to": "2026-11-23",
- "total": 105,
+ "to": "2026-11-24",
+ "total": 111,
  "days": [
-  {
-   "date": "2025-11-24",
-   "count": 0
-  },
   {
    "date": "2025-11-25",
    "count": 0
@@ -1463,6 +1459,10 @@
   {
    "date": "2026-11-23",
    "count": 0
+  },
+  {
+   "date": "2026-11-24",
+   "count": 6
   }
  ],
  "pinned": [
@@ -1491,6 +1491,14 @@
    "language": "JavaScript"
   },
   {
+   "name": "ai-revenue-recovery",
+   "description": "AI-powered failed-payment revenue recovery agent \u2014 Phase 1 foundation with synthetic data, classification, bounded recovery policies, and decision preview.",
+   "url": "https://github.com/ankitks1209/ai-revenue-recovery",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python"
+  },
+  {
    "name": "GoalGuard-ai",
    "description": "GoalGuard checks purchase proposals against an owner-confirmed financial plan, protecting bills, a cash buffer and a savings contribution. Approved purchases can continue through PayPal sandbox checkout with exact-cart consent and an audit trail.",
    "url": "https://github.com/ankitks1209/GoalGuard-ai",
@@ -1513,14 +1521,6 @@
    "stars": 0,
    "forks": 0,
    "language": "TypeScript"
-  },
-  {
-   "name": "ai-revenue-recovery",
-   "description": "AI-powered failed-payment revenue recovery agent \u2014 Phase 1 foundation with synthetic data, classification, bounded recovery policies, and decision preview.",
-   "url": "https://github.com/ankitks1209/ai-revenue-recovery",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python"
   },
   {
    "name": "Content-Chat-Bot",
